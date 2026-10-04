@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker y OS
+.DS_Store
+Thumbs.db
