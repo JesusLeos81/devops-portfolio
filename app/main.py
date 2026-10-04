@@ -14,4 +14,4 @@ def root():
     return {"message": "Hola desde el pipeline DevOps"}
 
 # Expone métricas en /metrics para que Prometheus las recolecte
-Instrumentator().instrument(app).expose(app);
+Instrumentator().instrument(app).expose(app)
